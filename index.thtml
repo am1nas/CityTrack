@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+    <meta charset="UTF-8">
+    <title>CityTrack - Placeholder</title>
+</head>
+<body>
+    <h1>Dobrodošli u CityTrack aplikaciju!</h1>
+    <p>Ovo je testna početna stranica za potrebe CI/CD provjere i Jira povezivanja.</p>
+</body>
+</html>
