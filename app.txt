@@ -1,0 +1,1 @@
+Ovo je testni placeholder za CI/CD i povezivanje s Jira.
